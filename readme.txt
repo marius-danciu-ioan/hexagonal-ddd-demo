@@ -1,0 +1,1 @@
+Example of a rest service in java 17 using hexagonal architecture and domain drive design
